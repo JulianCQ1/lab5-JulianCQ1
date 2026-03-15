@@ -21,7 +21,7 @@ while True:
             result = multiply(num1, num2)
         elif operation == "divide":
             if num2 == 0:
-                print("Error: Division by zero!")
+                print("Error: Division by zero is not allowed.")
                 continue
             result = divide(num1, num2)
         elif operation == "exponent":
@@ -30,7 +30,7 @@ while True:
             result = modulus(num1, num2)
         elif operation == "floor_divide":
             if num2 == 0:
-                print("Error: Division by zero!")
+                print("Error: Division by zero is not allowed.")
                 continue
             result = floor_divide(num1, num2)
     print(f"The result is: {result}")
