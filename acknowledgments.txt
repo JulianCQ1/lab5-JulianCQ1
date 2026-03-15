@@ -10,14 +10,14 @@ Número de horas:18-25
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
-¿Sí o no? SI, al momento de subir el archivo no se cargaba en github y hubo una tarea que no especificaba en donde hubicar el codigo, sin embargo lo encontre por descarte, y tampoco existe una tarea especifica para el utils_calc.py
+¿Sí o no? SI, al momento de subir el archivo no se cargaba en github y hubo una tarea que no especificaba en donde hubicar el codigo, sin embargo lo encontre por descarte.
 
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
 
-no pude subir el trabajo por partes sino que fue directo, por el problema con github.
+no pude subir el trabajo por partes sino que fue directo, por el problema con github, hasta que pude solucionarlo.
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)

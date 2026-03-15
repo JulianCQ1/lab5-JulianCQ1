@@ -529,5 +529,5 @@ class TestMainCalculator:
 # FREEZE CODE END
 
 if __name__ == "__main__":
-    import pytest
+    import pytes
     pytest.main([__file__, "-v"])
