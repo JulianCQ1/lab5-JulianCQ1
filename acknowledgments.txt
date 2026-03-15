@@ -23,7 +23,7 @@ no pude subir el trabajo por partes sino que fue directo, por el problema con gi
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-escriba aca el link
+https://github.com/JulianCQ1/lab5-JulianCQ1/actions/runs/23121022966/job/67154966732
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
