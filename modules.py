@@ -1,9 +1,8 @@
 import os
 import math
-cwd = os.getcwd()
-print("Current working directory:", cwd)
-num = int(input("Enter a number: "))
+print("Current working directory:", os.getcwd())
+num= int(input("Enter an integer: "))
 log_val = math.log2(num)
-print(f"The logarithm 2 of {num} is: {log_val}")
-print("floor:", math.floor(log_val))
-print("ceiling:", math.ceil(log_val))
+print(f"log base 2 of {num} is: {log_val}")
+print(f"floor:", math.floor(log_val))
+print(f"ceiling:", math.ceil(log_val))

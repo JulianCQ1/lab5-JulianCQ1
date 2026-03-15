@@ -2,11 +2,10 @@
 int_valor = None
 str_valor = None
 def set_globals(some_int, some_str):
-    global tupla
+    global int_valor, str_valor
     int_valor = some_int
-    str_valor = some_str 
-    tupla = (int_valor, str_valor)
+    str_valor = some_str
 def get_globals():
-    return tupla
+    return (int_valor, str_valor)
 
     
