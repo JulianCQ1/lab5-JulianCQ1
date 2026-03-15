@@ -1,6 +1,6 @@
-def list_shift(listas,float):
+def list_shift(listas,shift):
     for i in range(len(listas)):
-        listas[i] += float
+        listas[i] += shift
 
 def calc_avg(listas):
     total = sum(listas)
