@@ -4,7 +4,7 @@ while True:
     if operation == "exit":
         break
     if operation not in ["add", "subtract", "multiply", "divide", "exponent", "modulo", "floor_divide", "absolute", "exit"]:
-        print("Invalid operation!")
+        print("Invalid option!")
         
         continue
     if operation == "absolute":

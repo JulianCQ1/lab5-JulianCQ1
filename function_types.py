@@ -6,7 +6,7 @@ def calc_avg(listas):
     total = sum(listas)
     cantidad = len(listas)
     return total / cantidad
-def print_normalizad(listas):
+def print_normalized(listas):
     print(listas)
     
    
