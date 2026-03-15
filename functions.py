@@ -4,5 +4,5 @@ def promedio_estudiante(calificaciones):
     if cantidad == 0:
         return 0.0  
     total = sum(calificaciones)
-    promedio = total / cantidad
-    return float(promedio)
+    promedios = total / cantidad
+    return float(promedios)
