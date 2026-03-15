@@ -16,8 +16,7 @@ Número de horas:18-25
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
-no pude subir el trabajo por partes sino que fue directo, por el problema con github, hasta que pude solucionarlo.
+hubo un par de ejercicios en los cuales falto mas detalle.
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
